@@ -17,7 +17,7 @@ Using the power of DOM or Document Object Model have created a web app using htm
 
 
 ## Depolyed Link 
-https://counterdom.netlify.app/s
+https://counterdom.netlify.app/
 
 
 ## 📝 Features
