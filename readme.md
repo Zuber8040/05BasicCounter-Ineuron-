@@ -22,7 +22,6 @@ https://counterdom.netlify.app/s
 
 ## 📝 Features
 
-- Can Generate jokes on clicking button  
 - Hosted on Netlify and set up in production
 - Clean Code
 
